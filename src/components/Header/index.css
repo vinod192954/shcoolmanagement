@@ -1,0 +1,20 @@
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #cfc3c3;
+    height: 80px;
+    width: 100%;
+}
+.header-links{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 80px;
+}
+.header-links li{
+    margin: 10px;
+    color: #000;
+}
